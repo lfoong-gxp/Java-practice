@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Practice.iml" filepath="$PROJECT_DIR$/.idea/Java Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5_04（基礎練習）/Practice_5_04.iml" filepath="$PROJECT_DIR$/Practice_5_04（基礎練習）/Practice_5_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5_05（クラスの練習）/Practice_5_05.iml" filepath="$PROJECT_DIR$/Practice_5_05（クラスの練習）/Practice_5_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5_06（全体的の練習）/Practice_5_06.iml" filepath="$PROJECT_DIR$/Practice_5_06（全体的の練習）/Practice_5_06.iml" />
+    </modules>
+  </component>
+</project>
